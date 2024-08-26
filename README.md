@@ -1,1 +1,3 @@
 # Responsive-contact-form
+I just created responsive contact form from tutorial. I just learned how to make resonsive page. The most important thing i learned is to make proper structure of HTML for moving div back and forth for differnt screen sizes. Every component that we want to change after that should be in other div. we should relate the div to each other to align it later for different screen sizes.
+I put two dives inside wrapper div which are normally block element which make it on each line one is top and other is bottom. but when according to the biggest screen size. i can make this wrapper whether grid or flex to make it side by side.
